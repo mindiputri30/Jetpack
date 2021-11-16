@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_bookmark"
+            android:checked="true"
+            android:title="@string/best_vote" />
+        <item
+            android:id="@+id/action_bookmark2"
+            android:checked="false"
+            android:title="@string/worst_vote" />
+        <item
+            android:id="@+id/action_bookmark3"
+            android:checked="false"
+            android:title="@string/random" />
+    </group>
+</menu>

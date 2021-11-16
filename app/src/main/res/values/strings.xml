@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="title">Judul</string>
+    <string name="detail_title">Judul</string>
+    <string name="detail_genre">Genre</string>
+    <string name="title_description">Overview</string>
+    <string name="detail_description">Overview</string>
+    <string name="splash_image">Splash</string>
+    <string name="splash_text">MovApp</string>
+    <string name="movie">MOVIES</string>
+    <string name="tv_show">TV SHOW</string>
+    <string name="detail_page">Detail</string>
+    <string name="release">Tahun</string>
+    <string name="detail_rating">Rating</string>
+    <string name="desc_star">star</string>
+    <string name="vote">Vote Average</string>
+    <string name="item_star">item_star</string>
+    <string name="favorite_list">Favorite List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="best_vote">Best vote</string>
+    <string name="worst_vote">Worst vote</string>
+    <string name="random">Random</string>
+    <string name="fab_fav">fab_fav</string>
+    <string name="fav_page">Favorite Page</string>
+    <string name="error_message">Terjadi kesalahan</string>
+    <string name="ok">OK</string>
+    <string name="undo">Undo</string>
+</resources>
